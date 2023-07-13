@@ -89,7 +89,7 @@ h2 {
   height: 45px;
 }
 
-.btn-abbrev:hover {
+.btn-abbrev:hover, .btn-abbrev:active {
   background-color: #00617f;
   color: white;
 }
@@ -104,7 +104,7 @@ h2 {
   height: 45px;
 }
 
-.btn-ref:hover {
+.btn-ref:hover, .btn-ref:active {
   background-color: #00617f;
   color: white;
 }
@@ -118,7 +118,7 @@ h2 {
   font-size: 16px;
 }
 
-.btn-collapse:hover {
+.btn-collapse:hover, .btn-collapse:active {
   background-color: white;
   color: black;
   border-color: #2B6636;
@@ -156,8 +156,7 @@ h2 {
   border-bottom-color:#ffffff;
 }
 
-#scroll:hover {
+#scroll:hover, #scroll:active {
   background-color:#e74c3c;
-
 } 
 
