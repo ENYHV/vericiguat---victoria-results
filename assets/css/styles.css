@@ -42,6 +42,7 @@ h2 {
   display: flex;
   justify-content: center;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 .figure {
@@ -68,7 +69,7 @@ h2 {
 .popover {
   background-color: #EFFAE8;
   font-size: 18px;
-  max-width: 50%;
+  max-width: 70%;
   overflow: auto;
   max-height: 90%;
 }
